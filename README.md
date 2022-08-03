@@ -26,7 +26,7 @@ ingestion, data analysis, data validation, migration, legacy data warehouse mode
 
 ## Some use cases I worked on 🛠:
 *<sub>getUseCases()</sub>*
-- Big Data \\ Cloud
+- Big Data `\` Cloud
     - Lift and shift of big data applications from on-prem to cloud (GCP, Azure, AWS)
     - Legacy data warehouse modernization
     - Data migration
