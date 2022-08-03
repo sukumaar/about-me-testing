@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+>I am glad you came !!!
 
-You can use the [editor on GitHub](https://github.com/sukumaar/sukumaar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Who am I 🤓? 
+*<sub>getProfessionalSummary()</sub>*
+- Software Engineer having around 7 years of experience in Big Data Analytics with Apache Hadoop and Apache Spark.
+- Worked on Big Data technologies/framework (Spark, Hive, Kafka, HBase, Airflow, Sqoop, Flume, Oozie, Solr, Elasticsearch) with Scala and Java, also done respective installations.
+- Experienced in Java and Scala languages. Expertise in Apache Spark (Spark SQL, Spark core, Spark streaming), functional programming with Scala.
+- Emphasize clean coding with consideration of design patterns, programming paradigms, and TDD.
+- Developed applications with agile software development methodologies (Scrum, Kanban), managed a
+mid-size product development team.
+- Experience in Optimizing Spark jobs such as configuration tuning , code optimization , query
+optimization etc.
+- Deployed and managed solutions on cloud environments.
+- Worked on Big Data uses cases like: ETL pipeline development, streaming pipelines development, data
+ingestion, data analysis, data validation, migration, legacy data warehouse modernization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## My Tech Stack ⚡️:
+*<sub>getSkillSetInfo()</sub>*
+- Programming Languages:
+    - Scala, Java, Python
+- Bigdata Ecosystem Framework:
+    - Apache Spark (Spark SQL, Spark Core, Spark Streaming), Apache Hive, Apache Oozie, Apache Sqoop, Apache Airflow, Apache Kafka, Elastic Search, Apache Solr.
+- Other Tools and Frameworks:
+    - Maven, SBT, Gradle, git, gitlab, JIRA, JUnit, ScalaTest, Spock.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Some use cases I worked on 🛠:
+*<sub>getUseCases()</sub>*
+- Big Data
+    - Lift and shift of big data applications from on-prem to cloud
+    - Legacy data warehouse modernization
+    - Data migration
+    - Data Discovery
+    - Data validation and cleaup
+    - Streaming data analytics pipeline with Apache Kafka, Apache Spark
+    - Typical ETL (Extract Transform Load) workflows
 
-```markdown
-Syntax highlighted code block
+## Sometimes I write 🗒:
+*<sub>getPublicationInfo()</sub>*
+- [Testing Embedded H2 DB with Scala and Scalatest](https://medium.com/@sukumaar/testing-embedded-h2-db-with-scala-and-scalatest-3a863aafc9ab)
 
-# Header 1
-## Header 2
-### Header 3
+- [Scala Option Some None](https://medium.com/@sukumaar/scala-option-some-none-b9f735acfb82)
 
-- Bulleted
-- List
+- [Apache Spark Unit Testing Strategies](https://dev.to/sukumaar/apache-spark-unit-testing-strategies-451j)
 
-1. Numbered
-2. List
+## Links to connect me 🚀:
+*<sub>getSocialLinks()</sub>*
+- [Linkedin](https://www.linkedin.com/in/sukumaar)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
+![Tech stack logo](/docs/assets/tech-stack-4.png)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sukumaar/sukumaar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+<br>
