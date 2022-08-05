@@ -55,3 +55,6 @@ ingestion, data analysis, data validation, migration, legacy data warehouse mode
 
 ---
 <br>
+
+*<sub>getLastUpdatedTimeStamp()</sub>*
+*<sub>Fri  5 Aug 2022 15:57:33 UTC</sub>*
