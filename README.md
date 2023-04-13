@@ -43,6 +43,10 @@ ingestion, data analysis, data validation, migration, legacy data warehouse mode
 
 - [Apache Spark Unit Testing Strategies](https://dev.to/sukumaar/apache-spark-unit-testing-strategies-451j)
 
+- [Why do real Scala programmers avoid Spring DI?](https://medium.com/@sukumaar/why-do-real-scala-programmers-avoid-spring-di-756d15f62928)
+
+- [Mastering Error Handling in Scala](https://medium.com/@sukumaar/mastering-error-handling-in-scala-9bb26ddb977c)
+
 ## Links to connect me 🚀:
 *<sub>getSocialLinks()</sub>*
 - [Linkedin](https://www.linkedin.com/in/sukumaar)
